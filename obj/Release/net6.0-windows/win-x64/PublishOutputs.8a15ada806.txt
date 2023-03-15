@@ -1,0 +1,2 @@
+D:\C#\CSV2SQL\bin\publish\CSV2SQL.pdb
+D:\C#\CSV2SQL\bin\publish\CSV2SQL.exe

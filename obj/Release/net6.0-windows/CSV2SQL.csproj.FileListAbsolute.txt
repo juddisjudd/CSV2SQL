@@ -1,0 +1,17 @@
+D:\C#\CSV2SQL\bin\Release\net6.0-windows\CSV2SQL.exe
+D:\C#\CSV2SQL\bin\Release\net6.0-windows\CSV2SQL.deps.json
+D:\C#\CSV2SQL\bin\Release\net6.0-windows\CSV2SQL.runtimeconfig.json
+D:\C#\CSV2SQL\bin\Release\net6.0-windows\CSV2SQL.dll
+D:\C#\CSV2SQL\bin\Release\net6.0-windows\CSV2SQL.pdb
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.csproj.AssemblyReference.cache
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.Form1.resources
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.csproj.GenerateResource.cache
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.AssemblyInfoInputs.cache
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.AssemblyInfo.cs
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.csproj.CoreCompileInputs.cache
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.dll
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\refint\CSV2SQL.dll
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.pdb
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\CSV2SQL.genruntimeconfig.cache
+D:\C#\CSV2SQL\obj\Release\net6.0-windows\ref\CSV2SQL.dll
