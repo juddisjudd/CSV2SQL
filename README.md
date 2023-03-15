@@ -2,6 +2,8 @@
 
 A simple C# WinForms application to convert a CSV file to MariaDB format using the RebaseData API.
 
+![](https://i.imgur.com/xCSafVi.png)
+
 ## Features
 
 - Browse and select a CSV file
