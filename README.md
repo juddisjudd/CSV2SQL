@@ -16,7 +16,7 @@ A simple C# WinForms application to convert a CSV file to MariaDB format using t
 ## Usage
 
 1. Clone the repository or download the source code.
-2. Open the solution file (`CsvConverterWinFormsApp.sln`) in Visual Studio.
+2. Open the solution file (`CSV2SQL.sln`) in Visual Studio.
 3. Build and run the application.
 
 ## License
